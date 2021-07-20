@@ -1,0 +1,1 @@
+# Tic_Tac_Toe_py: is a ![Python](https://img.shields.io/badge/-Python-356c9a?style=flat&logo=Python&logoColor=white) game using ![Pygame](https://img.shields.io/badge/-Pygame-356c9a?style=flat&logo=Pygame&logoColor=white) and ![numpy](https://img.shields.io/badge/-numpy-356c9a?style=flat&logo=numpy&logoColor=white).
